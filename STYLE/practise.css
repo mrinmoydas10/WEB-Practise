@@ -1,0 +1,17 @@
+p{
+color: blueviolet;
+background-color: aquamarine;
+border: 5px solid tomato;
+margin: 10px;
+padding: 20px;
+text-align: justify;
+box-shadow: 10px 10px 10px burlywood;
+}
+
+.first{
+  color: blueviolet;
+}
+.second{
+  background-color: blueviolet;
+  width: fit-content;
+}
